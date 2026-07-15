@@ -1,1 +1,177 @@
-placeholder
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NS Arts Funding Crawler</title>
+  <style>
+    :root {
+      --bg: #0f0f13;
+      --surface: #1a1a22;
+      --border: #2e2e3a;
+      --accent: #7ec8e3;
+      --accent2: #c97bea;
+      --accent3: #7eeab8;
+      --text: #e4e4f0;
+      --muted: #888899;
+      --tag-grant: #2a4a5e;
+      --tag-residency: #3a2a5e;
+      --tag-opencall: #2a5e3a;
+      --tag-other: #3a3a2a;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; font-size: 15px; line-height: 1.6; }
+    header { padding: 2rem 1.5rem 1rem; border-bottom: 1px solid var(--border); }
+    header h1 { font-size: 1.6rem; color: var(--accent); letter-spacing: 0.02em; }
+    header p { color: var(--muted); margin-top: 0.3rem; font-size: 0.9rem; }
+    #meta { color: var(--muted); font-size: 0.8rem; margin-top: 0.5rem; }
+    #controls {
+      display: flex; flex-wrap: wrap; gap: 0.6rem;
+      padding: 1rem 1.5rem; border-bottom: 1px solid var(--border);
+      align-items: center;
+    }
+    #controls input {
+      background: var(--surface); border: 1px solid var(--border); color: var(--text);
+      padding: 0.45rem 0.8rem; border-radius: 6px; font-size: 0.9rem; width: 220px;
+    }
+    .filter-btn {
+      background: var(--surface); border: 1px solid var(--border); color: var(--muted);
+      padding: 0.4rem 0.9rem; border-radius: 20px; cursor: pointer; font-size: 0.85rem;
+      transition: all 0.15s;
+    }
+    .filter-btn.active { color: var(--bg); border-color: transparent; }
+    .filter-btn[data-type="all"].active    { background: var(--text); }
+    .filter-btn[data-type="grant"].active  { background: var(--accent); }
+    .filter-btn[data-type="residency"].active { background: var(--accent2); }
+    .filter-btn[data-type="open-call"].active { background: var(--accent3); }
+    #results { padding: 1rem 1.5rem; }
+    .section-header { font-size: 1rem; font-weight: 600; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 0.08em; margin: 1.5rem 0 0.7rem; }
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 10px; padding: 1rem 1.2rem; margin-bottom: 0.7rem;
+    }
+    .card-top { display: flex; align-items: flex-start; gap: 0.7rem; flex-wrap: wrap; }
+    .card h3 { font-size: 1rem; flex: 1; }
+    .card h3 a { color: var(--accent); text-decoration: none; }
+    .card h3 a:hover { text-decoration: underline; }
+    .type-badge {
+      font-size: 0.72rem; padding: 0.2rem 0.6rem; border-radius: 20px;
+      font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap;
+    }
+    .badge-grant    { background: var(--tag-grant);    color: var(--accent); }
+    .badge-residency{ background: var(--tag-residency); color: var(--accent2); }
+    .badge-open-call{ background: var(--tag-opencall);  color: var(--accent3); }
+    .badge-other    { background: var(--tag-other);     color: var(--muted); }
+    .card-meta { margin-top: 0.5rem; font-size: 0.82rem; color: var(--muted); }
+    .deadline-pill {
+      display: inline-block; background: #3a2a1a; color: #f0b97a;
+      border-radius: 4px; padding: 0.1rem 0.5rem; font-size: 0.78rem; margin: 0.1rem 0.2rem 0.1rem 0;
+    }
+    .snippet { margin-top: 0.5rem; font-size: 0.83rem; color: #aaaabc; line-height: 1.5; }
+    .tags { margin-top: 0.4rem; }
+    .tag { display: inline-block; background: #22222e; color: var(--muted);
+      border-radius: 4px; padding: 0.1rem 0.45rem; font-size: 0.75rem; margin: 0.1rem 0.15rem 0 0; }
+    #empty { display: none; color: var(--muted); padding: 2rem 0; text-align: center; }
+    footer { padding: 1.5rem; color: var(--muted); font-size: 0.8rem; border-top: 1px solid var(--border); margin-top: 2rem; }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>NS Arts Funding Crawler</h1>
+  <p>Grants · Residencies · Open Calls for digital artists in Nova Scotia</p>
+  <div id="meta">Loading…</div>
+</header>
+<div id="controls">
+  <input type="text" id="search" placeholder="Search by name or tag…" />
+  <button class="filter-btn active" data-type="all">All</button>
+  <button class="filter-btn" data-type="grant">Grants</button>
+  <button class="filter-btn" data-type="residency">Residencies</button>
+  <button class="filter-btn" data-type="open-call">Open Calls</button>
+</div>
+<div id="results">
+  <div id="empty">No results found.</div>
+</div>
+<footer>
+  Auto-updated weekly via GitHub Actions ·
+  <a href="https://github.com/jonathaniscarroll/ns-arts-funding-crawler">View source</a> ·
+  <a href="docs/report.md">Markdown report</a>
+</footer>
+<script>
+  let allData = [];
+  let activeType = "all";
+  const badgeClass = { grant: "badge-grant", residency: "badge-residency", "open-call": "badge-open-call", other: "badge-other" };
+  const sectionLabels = { grant: "Grants", residency: "Residencies", "open-call": "Open Calls & Gallery Submissions", other: "Other" };
+
+  async function loadData() {
+    try {
+      const r = await fetch("docs/data.json");
+      const json = await r.json();
+      allData = json.opportunities || [];
+      document.getElementById("meta").textContent =
+        `Last crawled: ${new Date(json.generated).toLocaleString("en-CA", { timeZone: "America/Halifax" })} ADT · ${allData.length} sources`;
+      render();
+    } catch (e) {
+      document.getElementById("meta").textContent = "Could not load data.json — run the crawler first or trigger the GitHub Action.";
+    }
+  }
+
+  function render() {
+    const query = document.getElementById("search").value.toLowerCase();
+    let filtered = allData.filter(op => {
+      const matchesType = activeType === "all" || op.type === activeType;
+      const matchesSearch = !query ||
+        op.name.toLowerCase().includes(query) ||
+        (op.tags || []).some(t => t.toLowerCase().includes(query)) ||
+        (op.snippet || "").toLowerCase().includes(query);
+      return matchesType && matchesSearch;
+    });
+    filtered.sort((a, b) => b.relevance - a.relevance);
+    const container = document.getElementById("results");
+    container.innerHTML = "";
+    const groups = {};
+    for (const op of filtered) (groups[op.type] = groups[op.type] || []).push(op);
+    const typeOrder = ["grant", "residency", "open-call", "other"];
+    let total = 0;
+    for (const type of typeOrder) {
+      const items = groups[type];
+      if (!items || !items.length) continue;
+      const hdr = document.createElement("div");
+      hdr.className = "section-header";
+      hdr.textContent = sectionLabels[type] || type;
+      container.appendChild(hdr);
+      for (const op of items) {
+        total++;
+        const card = document.createElement("div");
+        card.className = "card";
+        const dls = (op.deadlines || []).map(d => `<span class="deadline-pill">📅 ${d}</span>`).join("") || '<span style="color:var(--muted);font-size:0.8rem">check page for deadlines</span>';
+        const tags = (op.tags || []).map(t => `<span class="tag">${t}</span>`).join("");
+        card.innerHTML = `
+          <div class="card-top">
+            <h3><a href="${op.url}" target="_blank" rel="noopener">${op.name}</a></h3>
+            <span class="type-badge ${badgeClass[op.type] || 'badge-other'}">${op.type}</span>
+          </div>
+          <div class="card-meta">${dls}</div>
+          <div class="snippet">${op.snippet ? op.snippet + "…" : ""}</div>
+          <div class="tags">${tags}</div>
+        `;
+        container.appendChild(card);
+      }
+    }
+    document.getElementById("empty").style.display = total === 0 ? "block" : "none";
+  }
+
+  document.getElementById("search").addEventListener("input", render);
+  document.querySelectorAll(".filter-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeType = btn.dataset.type;
+      render();
+    });
+  });
+  loadData();
+</script>
+</body>
+</html>
