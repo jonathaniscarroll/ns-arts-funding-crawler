@@ -1,5 +1,5 @@
 # NS Arts Funding – Opportunities Report
-_Generated: July 15, 2026_
+_Generated: July 20, 2026_
 
 
 ## Grants
@@ -24,7 +24,7 @@ _Generated: July 15, 2026_
 
 ### [NS Funding – Arts, Culture & Heritage](https://www.nsfunding.ca/category/arts-culture-and-heritage/)
 - **Tags:** grant, provincial, ns, overview
-- **Deadlines found:** February 27, 2026, February 3, 2026, January 31, 2027, July 13, 2026, July 14, 2026, July 15, 2026, May 16, 2026, October 15, 2026
+- **Deadlines found:** February 27, 2026, January 31, 2027, July 13, 2026, July 14, 2026, July 15, 2026, May 16, 2026, October 15, 2026, September 2, 2026
 - **Relevance score:** 2
 - Arts, culture and heritage – Nova Scotia Funding Portal Home Categories Agriculture and farming Arts, culture and heritage Education, science and research Emergency services and public safety Employment, training Environment, water and climate change Health and human services Housing, retrofits and new construction Parks and recreation Planning and…
 
@@ -69,7 +69,7 @@ _Generated: July 15, 2026_
 
 ### [Artist Communities Alliance – Open Calls](https://artistcommunities.org/directory/open-calls)
 - **Tags:** residency, international, directory
-- **Deadlines found:** April 1, 2027, August 1, 2026, August 10, 2026, August 11, 2026, August 12, 2026, August 15, 2026, August 16, 2026, August 19, 2026, August 2, 2026, August 20, 2026, August 21, 2026, August 24, 2026, August 26, 2026, August 28, 2026, August 3, 2026, August 31, 2026, August 6, 2026, August 9, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 30, 2026, December 31, 2026, February 28, 2027, January 12, 2027, January 17, 2027, January 20, 2027, January 31, 2027, July 15, 2026, July 20, 2026, July 22, 2026, July 25, 2026, July 27, 2026, July 29, 2026, July 30, 2026, July 31, 2026, July 31, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 31, 2027, May 11, 2027, May 31, 2027, November 26, 2026, November 28, 2026, November 30, 2026, November 5, 2026, October 1, 2026, October 17, 2026, October 28, 2026, October 3, 2026, October 31, 2026, October 4, 2026, October 7, 2026, September 1, 2026, September 10, 2026, September 15, 2026, September 17, 2026, September 22, 2026, September 23, 2026, September 5, 2026, September 7, 2026, September 8, 2026
+- **Deadlines found:** April 1, 2027, August 1, 2026, August 10, 2026, August 11, 2026, August 12, 2026, August 15, 2026, August 16, 2026, August 19, 2026, August 2, 2026, August 20, 2026, August 21, 2026, August 24, 2026, August 26, 2026, August 28, 2026, August 3, 2026, August 31, 2026, August 5, 2026, August 6, 2026, August 9, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 15, 2026, December 30, 2026, December 31, 2026, February 28, 2027, January 12, 2027, January 17, 2027, January 20, 2027, January 31, 2027, July 20, 2026, July 22, 2026, July 25, 2026, July 27, 2026, July 29, 2026, July 30, 2026, July 31, 2026, July 31, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 31, 2027, May 11, 2027, May 31, 2027, November 25, 2026, November 26, 2026, November 28, 2026, November 30, 2026, November 5, 2026, October 1, 2026, October 17, 2026, October 28, 2026, October 3, 2026, October 31, 2026, October 4, 2026, October 7, 2026, September 1, 2026, September 10, 2026, September 15, 2026, September 17, 2026, September 22, 2026, September 23, 2026, September 5, 2026, September 7, 2026, September 8, 2026
 - **Relevance score:** 8
 - Open Calls | Artist Communities Alliance Skip to main content Menu Search Search Search Open Call Name Residency Program Name Organization Name Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua & Barbuda Argentina Armenia Aruba Ascension Island Australia Austria Azerbaijan Bahamas Bahrain Ba…
 
@@ -81,7 +81,7 @@ _Generated: July 15, 2026_
 
 ### [Banff Centre – Programs](https://www.banffcentre.ca/programs)
 - **Tags:** residency, national, digital-media, XR
-- **Deadlines found:** August 11, 2026, August 12, 2026, August 19, 2026, August 30, 2026, December 04, 2026, December 08, 2026, February 02, 2027, February 15, 2027, February 26, 2027, January 07, 2027, January 11, 2027, January 23, 2027, January 29, 2027, July 15, 2026, July 21, 2026, July 22, 2026, July 28, 2026, July 29, 2026, November 12, 2026, November 15, 2026, November 16, 2026, November 20, 2026, October 04, 2026, October 09, 2026, October 23, 2026, October 26, 2026, September 04, 2026, September 13, 2026, September 18, 2026
+- **Deadlines found:** August 11, 2026, August 12, 2026, August 19, 2026, August 26, 2026, August 30, 2026, December 04, 2026, December 08, 2026, February 02, 2027, February 08, 2027, February 15, 2027, February 20, 2027, February 26, 2027, January 07, 2027, January 11, 2027, January 23, 2027, January 29, 2027, July 21, 2026, July 22, 2026, July 28, 2026, July 29, 2026, November 12, 2026, November 15, 2026, November 16, 2026, November 20, 2026, October 04, 2026, October 09, 2026, October 23, 2026, October 26, 2026, September 04, 2026, September 13, 2026, September 18, 2026
 - **Relevance score:** 4
 - Programs | Banff Centre Skip to main content Programs Show me Current Programs Past Programs of all disciplines Cultural Leadership Dance Independent Studios Music Professional Training Programs Indigenous Arts Indigenous Leadership Interdisciplinary Leadership Leighton Artists Studios Literary Arts Digital Arts Mountain Culture Opera Playwrights T…
 
@@ -95,7 +95,7 @@ _Generated: July 15, 2026_
 - **Tags:** residency, international, directory
 - **Deadlines found:** check page
 - **Relevance score:** 0
-- …
+- Could not fetch page.…
 
 
 ## Open Calls & Gallery Submissions
@@ -104,7 +104,7 @@ _Generated: July 15, 2026_
 - **Tags:** open-call, exhibition, international, digital-art
 - **Deadlines found:** check page
 - **Relevance score:** 1
-- Art Opps Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 257 Fairs/Festivals 57th Street Art Fair 2027 Chicago, Illinois Application fee: $45 Fairs/Festivals Tampa Fine Art Show by Hot Works - February 27 & 28, 2027 - downtown along Riverwalk at Cotanchobee Tampa, Florida Applic…
+- Art Opps Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 250 Fairs/Festivals Naples Artcrafters April 2027 Show (Fine Artist and Fine Artcrafters) Naples, Florida Application fee: $25 Fairs/Festivals Naples Artcrafters March 2027 Show (Fine Artist and Fine Artcrafters) Naples, F…
 
 ### [Khyber Centre for the Arts – Halifax](https://khyberarts.ca/)
 - **Tags:** open-call, gallery, halifax, ns
