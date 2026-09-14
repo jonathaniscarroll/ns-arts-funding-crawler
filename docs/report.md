@@ -1,5 +1,5 @@
 # NS Arts Funding – Opportunities Report
-_Generated: September 07, 2026_
+_Generated: September 14, 2026_
 
 
 ## Grants
@@ -69,7 +69,7 @@ _Generated: September 07, 2026_
 
 ### [Artist Communities Alliance – Open Calls](https://artistcommunities.org/directory/open-calls)
 - **Tags:** residency, international, directory
-- **Deadlines found:** April 1, 2027, August 15, 2026, December 1, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 15, 2026, December 30, 2026, December 31, 2026, February 28, 2027, January 12, 2027, January 15, 2027, January 17, 2027, January 20, 2027, January 31, 2027, January 8, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 31, 2027, May 11, 2027, May 15, 2027, May 31, 2027, November 1, 2026, November 15, 2026, November 2, 2026, November 25, 2026, November 26, 2026, November 28, 2026, November 30, 2026, November 5, 2026, October 1, 2026, October 15, 2026, October 17, 2026, October 28, 2026, October 3, 2026, October 30, 2026, October 31, 2026, October 4, 2026, October 7, 2026, September 10, 2026, September 14, 2026, September 15, 2026, September 17, 2026, September 18, 2026, September 20, 2026, September 22, 2026, September 23, 2026, September 30, 2026, September 7, 2026, September 8, 2026
+- **Deadlines found:** April 1, 2027, December 1, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 15, 2026, December 30, 2026, December 31, 2026, December 6, 2026, December 9, 2026, February 28, 2027, January 12, 2027, January 15, 2027, January 17, 2027, January 20, 2027, January 31, 2027, January 8, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 31, 2027, May 11, 2027, May 15, 2027, May 31, 2027, November 1, 2026, November 15, 2026, November 18, 2026, November 2, 2026, November 25, 2026, November 26, 2026, November 28, 2026, November 3, 2026, November 30, 2026, November 5, 2026, October 1, 2026, October 14, 2026, October 15, 2026, October 17, 2026, October 28, 2026, October 29, 2026, October 3, 2026, October 30, 2026, October 31, 2026, October 4, 2026, October 7, 2026, September 14, 2026, September 15, 2026, September 17, 2026, September 18, 2026, September 20, 2026, September 22, 2026, September 23, 2026, September 30, 2026
 - **Relevance score:** 8
 - Open Calls | Artist Communities Alliance Skip to main content Menu Search Search Search Open Call Name Residency Program Name Organization Name Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua & Barbuda Argentina Armenia Aruba Ascension Island Australia Austria Azerbaijan Bahamas Bahrain Ba…
 
@@ -104,7 +104,7 @@ _Generated: September 07, 2026_
 - **Tags:** open-call, exhibition, international, digital-art
 - **Deadlines found:** check page
 - **Relevance score:** 1
-- Art Opps Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 88 Fairs/Festivals Columbus Arts Festival 2027 Columbus, Ohio Application fee: $40 Fairs/Festivals Kensington Art Fair 2027 Milford, Michigan Application fee: $30 Exhibition Draw the Line Chico, California Application fee:…
+- Art Opps Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 72 Fairs/Festivals Art Florence 2027 Florence, South Carolina Application fee: $20 Exhibition Modern Relics San Diego, California Application fee: $40 Fairs/Festivals July Art Fair 2027 Jackson, Wyoming Application fee: $4…
 
 ### [Khyber Centre for the Arts – Halifax](https://khyberarts.ca/)
 - **Tags:** open-call, gallery, halifax, ns
