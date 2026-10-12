@@ -1,5 +1,5 @@
 # NS Arts Funding – Opportunities Report
-_Generated: October 05, 2026_
+_Generated: October 12, 2026_
 
 
 ## Grants
@@ -69,19 +69,19 @@ _Generated: October 05, 2026_
 
 ### [Artist Communities Alliance – Open Calls](https://artistcommunities.org/directory/open-calls)
 - **Tags:** residency, international, directory
-- **Deadlines found:** April 1, 2027, December 1, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 15, 2026, December 20, 2026, December 29, 2026, December 30, 2026, December 31, 2026, December 6, 2026, December 9, 2026, February 17, 2027, February 28, 2027, January 12, 2027, January 15, 2027, January 17, 2027, January 20, 2027, January 31, 2027, January 5, 2027, January 6, 2027, January 8, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 2, 2027, March 31, 2027, May 11, 2027, May 15, 2027, May 31, 2027, November 1, 2026, November 12, 2026, November 15, 2026, November 18, 2026, November 2, 2026, November 23, 2026, November 25, 2026, November 26, 2026, November 28, 2026, November 3, 2026, November 30, 2026, November 4, 2026, November 5, 2026, November 9, 2026, October 10, 2026, October 14, 2026, October 15, 2026, October 16, 2026, October 17, 2026, October 28, 2026, October 29, 2026, October 30, 2026, October 31, 2026, October 4, 2026, October 6, 2026, October 7, 2026, October 9, 2026
+- **Deadlines found:** 26 October 2026, April 1, 2027, December 1, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 15, 2026, December 20, 2026, December 29, 2026, December 30, 2026, December 31, 2026, December 6, 2026, December 9, 2026, February 17, 2027, February 28, 2027, January 12, 2027, January 15, 2027, January 17, 2027, January 2, 2027, January 20, 2027, January 31, 2027, January 5, 2027, January 6, 2027, January 8, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 2, 2027, March 31, 2027, May 11, 2027, May 15, 2027, May 31, 2027, November 1, 2026, November 12, 2026, November 15, 2026, November 18, 2026, November 2, 2026, November 23, 2026, November 25, 2026, November 26, 2026, November 28, 2026, November 3, 2026, November 30, 2026, November 4, 2026, November 5, 2026, November 9, 2026, October 14, 2026, October 15, 2026, October 16, 2026, October 17, 2026, October 20, 2026, October 26, 2026, October 28, 2026, October 29, 2026, October 30, 2026, October 31, 2026
 - **Relevance score:** 8
 - Open Calls | Artist Communities Alliance Skip to main content Menu Search Search Search Open Call Name Residency Program Name Organization Name Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua & Barbuda Argentina Armenia Aruba Ascension Island Australia Austria Azerbaijan Bahamas Bahrain Ba…
 
 ### [Studio H Canada – Artist Residency](https://studiohcanadaresidency.ca/)
 - **Tags:** residency, canada, all-media
-- **Deadlines found:** October 3, 2026, September 21, 2026
-- **Relevance score:** 4
+- **Deadlines found:** October 3, 2026, October 7, 2026, September 19, 2026, September 21, 2026
+- **Relevance score:** 6
 - join us on this journey - Studio H Canada International Artist Residencies Skip to content Studio H Canada International Artist Residencies Artist-run. Artist-centred. Studio H Canada International Artist Residency is hosted by multimedia visual artist Heidi Bergstrom. Heidi (she/her) is Red River Métis citizen with a settler background of mixed Eu…
 
 ### [Banff Centre – Programs](https://www.banffcentre.ca/programs)
 - **Tags:** residency, national, digital-media, XR
-- **Deadlines found:** April 05, 2027, December 04, 2026, February 05, 2027, February 08, 2027, February 25, 2027, July 05, 2027, July 31, 2027, March 01, 2027, March 20, 2027, March 23, 2027, November 04, 2026, November 15, 2026, November 20, 2026, November 22, 2026, November 27, 2026, November 29, 2026, October 06, 2026, October 13, 2026, October 14, 2026, October 28, 2026
+- **Deadlines found:** April 05, 2027, December 04, 2026, February 05, 2027, February 08, 2027, February 25, 2027, July 05, 2027, July 31, 2027, March 01, 2027, March 20, 2027, March 23, 2027, November 04, 2026, November 15, 2026, November 20, 2026, November 22, 2026, November 27, 2026, November 29, 2026, October 13, 2026, October 14, 2026, October 28, 2026
 - **Relevance score:** 3
 - Programs | Banff Centre Skip to main content Programs Show me Current Programs Past Programs of all disciplines Cultural Leadership Dance Independent Studios Music Professional Training Programs Indigenous Arts Indigenous Leadership Interdisciplinary Leadership Leighton Artists Studios Literary Arts Digital Arts Mountain Culture Opera Playwrights T…
 
@@ -89,13 +89,13 @@ _Generated: October 05, 2026_
 - **Tags:** residency, academic, MFA, ns
 - **Deadlines found:** December 12, 2025
 - **Relevance score:** 1
-- Research - NSCAD Search APPLY Apply Give Extended Studies Admissions How to apply How to apply Admissions deadlines Undergraduate admission requirements Graduate admission requirements Certificate Admission Requirements Application checklist Transfer, articulation and pathway agreements Building your portfolio Financing your education Financing You…
+- Research - NSCAD Search Apply Give Extended Studies Admissions How to apply How to apply Admissions deadlines Undergraduate admission requirements Graduate admission requirements Certificate Admission Requirements Application checklist Transfer, articulation and pathway agreements Building your portfolio Financing your education Financing Your Educ…
 
 ### [Res Artis – Opportunities](https://resartis.org/opportunities/)
 - **Tags:** residency, international, directory
 - **Deadlines found:** check page
 - **Relevance score:** 0
-- …
+- Could not fetch page.…
 
 
 ## Open Calls & Gallery Submissions
@@ -104,7 +104,7 @@ _Generated: October 05, 2026_
 - **Tags:** open-call, exhibition, international, digital-art
 - **Deadlines found:** check page
 - **Relevance score:** 1
-- Art Opps Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 103 Exhibition 3rd Gonzaga Triennial: Inland Northwest Juried Landscape Art Exhibition Spokane, Washington Application fee: $25 Competitions 2027 Carolyn Harder Scholarship Winchester, Massachusetts Application fee: $0 Com…
+- Art Opps Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 118 Competitions Gallery of Hermosa: Best of the Beach HERMOSA BEACH, California Application fee: $36 Competitions PERFECT CHAOS Los Angeles, California Application fee: $32 Exhibition THROWING SHADE Boston, Massachusetts…
 
 ### [Khyber Centre for the Arts – Halifax](https://khyberarts.ca/)
 - **Tags:** open-call, gallery, halifax, ns
