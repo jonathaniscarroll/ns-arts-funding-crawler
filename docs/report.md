@@ -1,5 +1,5 @@
 # NS Arts Funding – Opportunities Report
-_Generated: October 19, 2026_
+_Generated: October 26, 2026_
 
 
 ## Grants
@@ -28,12 +28,6 @@ _Generated: October 19, 2026_
 - **Relevance score:** 1
 - Deadlines and Notifications | Canada Council for the Arts Skip to main content Accessibility Press Careers Contact Portal Search Français × Are you looking to… Find out what the granting programs fund Review funding profile eligibility criteria Learn about the funding application portal Discover how funding is awarded Explore available application…
 
-### [NS Creative Industries Fund](https://cch.novascotia.ca/support4culture)
-- **Tags:** grant, provincial, ns, creative-industries
-- **Deadlines found:** 15 May 2024
-- **Relevance score:** 1
-- Support4Culture | Communities, Culture, Tourism and Heritage Jump to Navigation Google Tag Manager English Français Gàidhlig Communities, Culture, Tourism and Heritage Search Support4Culture Support4Culture is a collection of programs that support arts, culture, and heritage in communities across Nova Scotia. The programs provide a wide spectrum of…
-
 ### [Visual Arts Nova Scotia – Funding Resources](https://visualarts.ns.ca/resource-funding/)
 - **Tags:** grant, provincial, ns, visual-art
 - **Deadlines found:** August 26, 2026, July 24, 2026, June 30, 2026, June 9, 2026, September 16, 2026
@@ -48,6 +42,12 @@ _Generated: October 19, 2026_
 
 ### [Canada Council – Digital Now](https://canadacouncil.ca/funding/strategic-funds/digital-now)
 - **Tags:** grant, federal, digital, media
+- **Deadlines found:** check page
+- **Relevance score:** 0
+- Could not fetch page.…
+
+### [NS Creative Industries Fund](https://cch.novascotia.ca/support4culture)
+- **Tags:** grant, provincial, ns, creative-industries
 - **Deadlines found:** check page
 - **Relevance score:** 0
 - Could not fetch page.…
@@ -69,19 +69,19 @@ _Generated: October 19, 2026_
 
 ### [Artist Communities Alliance – Open Calls](https://artistcommunities.org/directory/open-calls)
 - **Tags:** residency, international, directory
-- **Deadlines found:** 26 October 2026, April 1, 2027, December 1, 2026, December 1, 2027, December 10, 2026, December 14, 2026, December 15, 2026, December 16, 2026, December 20, 2026, December 29, 2026, December 30, 2026, December 31, 2026, December 6, 2026, December 9, 2026, February 17, 2027, February 28, 2027, January 12, 2027, January 15, 2027, January 17, 2027, January 2, 2027, January 20, 2027, January 31, 2027, January 5, 2027, January 6, 2027, January 7, 2027, January 8, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 2, 2027, March 3, 2027, March 31, 2027, May 11, 2027, May 15, 2027, May 31, 2027, November 1, 2026, November 10, 2026, November 12, 2026, November 15, 2026, November 18, 2026, November 19, 2026, November 2, 2026, November 23, 2026, November 25, 2026, November 26, 2026, November 28, 2026, November 29, 2026, November 3, 2026, November 30, 2026, November 4, 2026, November 5, 2026, November 9, 2026, October 20, 2026, October 26, 2026, October 29, 2026, October 30, 2026, October 31, 2026
+- **Deadlines found:** 26 October 2026, April 1, 2027, December 1, 2026, December 1, 2027, December 10, 2026, December 11, 2026, December 14, 2026, December 15, 2026, December 16, 2026, December 20, 2026, December 29, 2026, December 30, 2026, December 31, 2026, December 6, 2026, December 9, 2026, February 15, 2027, February 17, 2027, February 28, 2027, January 12, 2027, January 15, 2027, January 17, 2027, January 2, 2027, January 20, 2027, January 31, 2027, January 5, 2027, January 6, 2027, January 7, 2027, January 8, 2027, June 15, 2027, March 1, 2027, March 14, 2027, March 2, 2027, March 3, 2027, March 31, 2027, May 11, 2027, May 15, 2027, May 31, 2027, November 1, 2026, November 10, 2026, November 12, 2026, November 15, 2026, November 16, 2026, November 18, 2026, November 19, 2026, November 2, 2026, November 23, 2026, November 25, 2026, November 26, 2026, November 27, 2026, November 28, 2026, November 29, 2026, November 3, 2026, November 30, 2026, November 4, 2026, November 5, 2026, November 7, 2026, November 9, 2026, October 26, 2026, October 29, 2026, October 30, 2026, October 31, 2026
 - **Relevance score:** 8
 - Open Calls | Artist Communities Alliance Skip to main content Menu Search Search Search Open Call Name Residency Program Name Organization Name Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua & Barbuda Argentina Armenia Aruba Ascension Island Australia Austria Azerbaijan Bahamas Bahrain Ba…
 
 ### [Studio H Canada – Artist Residency](https://studiohcanadaresidency.ca/)
 - **Tags:** residency, canada, all-media
-- **Deadlines found:** October 3, 2026, October 7, 2026, September 19, 2026, September 21, 2026
-- **Relevance score:** 6
+- **Deadlines found:** March 6, 2027, October 24, 2026, October 25, 2026, October 7, 2026, September 21, 2026
+- **Relevance score:** 4
 - join us on this journey - Studio H Canada International Artist Residencies Skip to content Studio H Canada International Artist Residencies Artist-led. Artist-centred. Studio H Canada International Artist Residency is hosted by multimedia visual artist Heidi Bergstrom. Heidi (she/her) is Red River Métis citizen with a settler background of mixed Eu…
 
 ### [Banff Centre – Programs](https://www.banffcentre.ca/programs)
 - **Tags:** residency, national, digital-media, XR
-- **Deadlines found:** April 05, 2027, April 16, 2027, April 19, 2027, December 04, 2026, December 08, 2026, December 09, 2026, February 05, 2027, February 08, 2027, January 24, 2027, January 29, 2027, July 05, 2027, July 31, 2027, June 05, 2027, June 07, 2027, June 12, 2027, June 18, 2027, June 20, 2027, June 26, 2027, May 08, 2027, May 10, 2027, May 17, 2027, May 22, 2027, May 25, 2027, November 04, 2026, November 10, 2026, November 12, 2026, November 18, 2026, November 25, 2026, November 29, 2026, October 27, 2026
+- **Deadlines found:** April 05, 2027, April 16, 2027, April 19, 2027, December 04, 2026, December 08, 2026, December 09, 2026, February 05, 2027, February 08, 2027, January 17, 2027, January 22, 2027, January 24, 2027, January 29, 2027, July 05, 2027, July 31, 2027, June 05, 2027, June 07, 2027, June 12, 2027, June 18, 2027, June 20, 2027, June 26, 2027, May 08, 2027, May 10, 2027, May 17, 2027, May 22, 2027, May 25, 2027, November 04, 2026, November 10, 2026, November 12, 2026, November 17, 2026, November 18, 2026, November 25, 2026, November 29, 2026, October 27, 2026
 - **Relevance score:** 3
 - Programs | Banff Centre Skip to main content Programs Show me Current Programs Past Programs of all disciplines Cultural Leadership Dance Independent Studios Music Professional Training Programs Indigenous Arts Indigenous Leadership Interdisciplinary Leadership Leighton Artists Studios Literary Arts Digital Arts Mountain Culture Opera Playwrights T…
 
@@ -103,8 +103,8 @@ _Generated: October 19, 2026_
 ### [Creative West Opportunities Portal (CaFÉ)](https://opportunities.wearecreativewest.org/)
 - **Tags:** open-call, exhibition, international, digital-art
 - **Deadlines found:** check page
-- **Relevance score:** 2
-- Opportunities Portal Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 103 Residencies Prime Desert Woodland Preserve Artist in Residence Program Lancaster, California Application fee: $3 Fairs/Festivals Fall Festival on Ponce:(16th Annual) 2027, North Druid Hills, Atlanta, Ga Atl…
+- **Relevance score:** 1
+- Opportunities Portal Skip to Content Discover hundreds of creative opportunities. View all opportunities. Filters New Opportunities See all 110 Fairs/Festivals Omaha Art Fair 2027 Omaha, Nebraska Application fee: $35 Fairs/Festivals Foothills Art Market 2027 Denver, Colorado Application fee: $15 Commissions 2027 Sculpture in the Square - Fort Colli…
 
 ### [Khyber Centre for the Arts – Halifax](https://khyberarts.ca/)
 - **Tags:** open-call, gallery, halifax, ns
